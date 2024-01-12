@@ -6,7 +6,7 @@ const AboutPage = () => {
     <div className={styles.container}>
       <div className={styles.textContainer}>
         <h2 className={styles.subTitle}>
-          <h1>About Agency</h1>
+          About Agency
           </h2>
         <h1 className={styles.title}>
           We create digital ideas that are bigger, bolder.
